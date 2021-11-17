@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Test123456">20333abadb33f490eaba3ed4e29619dd</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>ksamarawee</sys_created_by>
+        <sys_created_on>2021-11-17 11:33:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a4333abadb33f490eaba3ed4e29619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>20333abadb33f490eaba3ed4e29619dd</sys_name>
+        <sys_package display_value="cicd-demo2" source="x_jws_cicd_demo2">e3a2f636db33f490eaba3ed4e29619d8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="cicd-demo2">e3a2f636db33f490eaba3ed4e29619d8</sys_scope>
+        <sys_update_name>sys_report_users_groups_a4333abadb33f490eaba3ed4e29619dd</sys_update_name>
+        <sys_updated_by>ksamarawee</sys_updated_by>
+        <sys_updated_on>2021-11-17 11:33:35</sys_updated_on>
+        <user_id display_value="Keminda Samaraweera">0f7f9bf9dbd69c18d3ade3a84b9619bf</user_id>
+    </sys_report_users_groups>
+</record_update>
